@@ -25,5 +25,6 @@ It also contains the following files:
             - projection = GEO
             - resample type = nearest
 - example_images.pdf
+    - (needs to be downloaded to view)
     - some images created using the ipython codes above and also from plotting certain files in panoply
         - images included annotations for explanation
